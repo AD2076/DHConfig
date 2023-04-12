@@ -6,5 +6,39 @@
     "dropsativados",
     "dropsactivados",
     "dropsactivés"
-  ]
+  ],
+  "wait" : {
+    "min" : 3,
+    "max" : 5
+  },
+  "buttons":{
+    "chatClaimButton" : ".ScCoreButton-sc-ocjdkq-0.ScCoreButtonPrimary-sc-ocjdkq-1.dNGoHt.hdAxZi",
+    "bonusButton" : ".ScCoreButton-sc-ocjdkq-0.ScCoreButtonSuccess-sc-ocjdkq-5.ibtYyW.kIlsPe",
+    "chatWelocomeMessage" : "[data-a-target=\"chat-welcome-message\"]",
+    "chatRulesButton" : "[data-test-selector=\"chat-rules-ok-button\"]",
+    "closeDropFlexButton" : ".chat-input-tray__open .ScCoreButton-sc-1qn4ixc-0.jGqsfG.ScButtonIcon-sc-o7ndmn-0.fNzXyu",
+    "reloadPlayerButton" : ".ScCoreButton-sc-ocjdkq-0.ScCoreButtonDestructive-sc-ocjdkq-4.bSHCMy.hsXVO",
+    "matureButton" : "[data-a-target=\"player-overlay-mature-accept\"]",
+    "toggleChatButton" : "[data-a-target=\"right-column__toggle-collapse-btn\"]",
+    "playerContainer" : ".video-player__container",
+    "errorList" : ".content-overlay-gate__allow-pointers",
+    "chatBar" : "[data-a-target=\"right-column-chat-bar\"]",
+    "chatBarCollapsed" : "[data-a-target=\"right-column-chat-bar-collapsed\"]"
+  },
+  "api":{
+    "gameInfo" : "https://api.twitch.tv/helix/games?name=",
+    "streams" : "https://api.twitch.tv/helix/streams"
+  },
+  "user_preferences" : {
+    "lowQualityVideoPlayer" : true,
+    "minViewersToStay" : 200,
+    "onlyWhitelistedChannels" : true,
+    "channels" : {
+      "whitelisted" : [],
+      "blacklisted" : []
+    },
+    "gamesToFollow" : [
+      "Rocket League"
+    ]
+  }
 }
