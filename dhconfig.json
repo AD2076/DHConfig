@@ -1,6 +1,6 @@
 {
-  "chat-drop-claim-button-id" : ".ScCoreButton-sc-ocjdkq-0.ScCoreButtonPrimary-sc-ocjdkq-1.dNGoHt.hdAxZi",
-  "chat-bonus-claim-button-id" : ".ScCoreButtonSuccess-sc-1qn4ixc-5",
+  "chat_drop_claim_button_id" : ".ScCoreButton-sc-ocjdkq-0.ScCoreButtonPrimary-sc-ocjdkq-1.dNGoHt.hdAxZi",
+  "chat_bonus_claim_button_id" : ".ScCoreButtonSuccess-sc-1qn4ixc-5",
   "drops-tag" : [
     "dropsenabled",
     "dropsativados",
