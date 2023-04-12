@@ -1,0 +1,10 @@
+{
+  "chat-drop-claim-button-id" : "",
+  "chat-bonus-claim-button-id" : "",
+  "drops-tag" : [
+    "dropsenabled",
+    "dropsativados",
+    "dropsactivados",
+    "dropsactivés"
+  ]
+}
