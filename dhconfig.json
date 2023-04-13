@@ -32,6 +32,7 @@
   "user_preferences" : {
     "lowQualityVideoPlayer" : true,
     "minViewersToStay" : 200,
+    "minViewersToJoin" : 300,
     "onlyWhitelistedChannels" : true,
     "channels" : {
       "whitelisted" : [],
