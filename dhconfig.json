@@ -45,7 +45,11 @@
     },
     "gamesToFollow" : [
       "Rocket League"
-    ]
+    ],
+    "reload" : {
+        "enabled" : false,
+        "interval" : 30
+    }
   },
-  "lastVersion" : "1.7.2"
+  "lastVersion" : "1.8.0"
 }
