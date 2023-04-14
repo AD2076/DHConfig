@@ -30,11 +30,15 @@
     "gameInfo" : "https://api.twitch.tv/helix/games?name=",
     "streams" : "https://api.twitch.tv/helix/streams"
   },
+  "urls":{
+    "inventory":"https://www.twitch.tv/drops/inventory"
+  }
   "user_preferences" : {
     "lowQualityVideoPlayer" : true,
     "minViewersToStay" : 200,
     "minViewersToJoin" : 300,
     "onlyWhitelistedChannels" : true,
+    "openInventoryTab" : false,
     "channels" : {
       "whitelisted" : [],
       "blacklisted" : []
