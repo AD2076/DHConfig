@@ -33,6 +33,7 @@
   "urls":{
     "inventory":"https://www.twitch.tv/drops/inventory"
   },
+  "querytab" : "dhopentab",
   "user_preferences" : {
     "lowQualityVideoPlayer" : true,
     "minViewersToStay" : 200,
