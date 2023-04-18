@@ -30,7 +30,8 @@
     "streams" : "https://api.twitch.tv/helix/streams"
   },
   "urls":{
-    "inventory":"https://www.twitch.tv/drops/inventory"
+    "inventory" : "https://www.twitch.tv/drops/inventory",
+    "ofpatreon" : "https://patreon.com/RLOldFarts"
   },
   "querytab" : "dhopentab",
   "user_preferences" : {
