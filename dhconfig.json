@@ -40,6 +40,7 @@
     "minViewersToJoin" : 300,
     "onlyWhitelistedChannels" : true,
     "openInventoryTab" : false,
+    "closeChat" : true,
     "channels" : {
       "whitelisted" : [],
       "blacklisted" : []
