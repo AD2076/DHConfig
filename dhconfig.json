@@ -13,7 +13,7 @@
     "max" : 5
   },
   "buttons":{
-    "chatClaimButton" : ".ScCoreButton-sc-ocjdkq-0.ScCoreButtonPrimary-sc-ocjdkq-1.dulmVz.hdAxZi",
+    "chatClaimButton" : ".ScCoreButton-sc-ocjdkq-0.ScCoreButtonPrimary-sc-ocjdkq-1.bdRfBK.bxHedf",
     "bonusButton" : ".ScCoreButton-sc-ocjdkq-0.ScCoreButtonSuccess-sc-ocjdkq-5.ibtYyW.kIlsPe",
     "chatWelocomeMessage" : "[data-a-target=\"chat-welcome-message\"]",
     "chatRulesButton" : "[data-test-selector=\"chat-rules-ok-button\"]",
@@ -54,5 +54,5 @@
         "interval" : 30
     }
   },
-  "lastVersion" : "2.0.4"
+  "lastVersion" : "2.0.5"
 }
