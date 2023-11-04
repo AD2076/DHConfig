@@ -18,7 +18,6 @@
     "chatClaimButton" : ".ScCoreButton-sc-ocjdkq-0.ScCoreButtonPrimary-sc-ocjdkq-1.bdRfBK.bxHedf",
     "chatClaimButtonStart" : ".ScCoreButton-sc-ocjdkq-0.ScCoreButtonPrimary-sc-ocjdkq",
     "bonusButton" : ".ScCoreButton-sc-ocjdkq-0.ScCoreButtonText-sc-ocjdkq-3.caieTg.lkkHqR",
-    "closeMomentsDialog" : ".ScCoreButton-sc-ocjdkq-0.bTXTVH.ScButtonIcon-sc-9yap0r-0.eSFFfM",
     "chatWelocomeMessage" : "[data-a-target=\"chat-welcome-message\"]",
     "chatRulesButton" : "[data-test-selector=\"chat-rules-ok-button\"]",
     "closeDropFlexButton" : ".chat-input-tray__open .ScCoreButton-sc-1qn4ixc-0.jGqsfG.ScButtonIcon-sc-o7ndmn-0.fNzXyu",
