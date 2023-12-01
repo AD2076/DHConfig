@@ -55,6 +55,10 @@
     "reload" : {
         "enabled" : false,
         "interval" : 30
+    },
+    "inventory" : {
+      "interval" : 15,
+      "delay" : 1
     }
   },
   "lastVersion" : "2.0.6"
